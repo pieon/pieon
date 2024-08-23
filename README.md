@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is Jaehoon Pyon.
+I have joined Virginia Tech for Ph.D. degree
+Studying about Human Computer Interaction(HCI)
+
 <!--
 **pieon/pieon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
